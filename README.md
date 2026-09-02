@@ -4,6 +4,12 @@ Machine Learning project predicting residential house sale prices using the Ames
 
 ---
 
+## 🔗 Project Resources
+
+- [Download Raw Dataset](./AmesHousing.csv)
+- [Download Cleaned Dataset](./AmesHousing_Cleaned.xls)
+- [View Jupyter Notebook](./AmesHousing_ML.ipynb)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
